@@ -18,8 +18,6 @@ int main()
 	NtRaiseHardError(STATUS_ASSERTION_FAILURE, 0, 0, 0, 6, &response);
 
 	return 0;
-
-	// Date:16.06.22
-	// Time:22:53
+	
 	// Creator By CO0K1E :D
 }
